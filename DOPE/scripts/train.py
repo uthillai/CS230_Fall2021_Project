@@ -1013,6 +1013,10 @@ parser.add_argument('--data',
     default = "", 
     help='path to training data')
 
+parser.add_argument('--epoch_no',  
+    default = "", 
+    help='which epoch number')
+
 parser.add_argument('--datatest', 
     default="", 
     help='path to data testing set')
@@ -1286,7 +1290,8 @@ def _runnetwork(epoch, loader, train=True):
         if train:
             namefile = '/loss_train.csv'
         else:
-            namefile = '/loss_test.csv'
+            #namefile = '/loss_test.csv'
+            namefile = '/loss_test_{}.csv'.format(opt.epoch_no)
 
         with open (opt.outf+namefile,'a') as file:
             s = '{}, {},{:.15f}\n'.format(
