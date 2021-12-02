@@ -14,6 +14,7 @@ https://cs230.stanford.edu/project/
 Examples of 3D CAD models that are 3D printed, then a real-world image with an initial synthetic image, both with a wood grain background.
 ![tetris_CAD](https://user-images.githubusercontent.com/25275773/144511365-9839fe00-d8fd-446a-aad9-be4c43882f83.png)
 ![tetris_slicer](https://user-images.githubusercontent.com/25275773/144511361-a85a3885-9ec0-4e52-a058-35d37b0138f6.png)
+![3Dprint](https://user-images.githubusercontent.com/25275773/144511500-cde925c5-dd56-419b-8242-e5d2afefc4d3.jpeg)
 ![3Dprinttestsetup](https://user-images.githubusercontent.com/25275773/144511366-9959d6e4-0f9f-449d-be36-1a9f9e8bdce3.JPG)
 ![IMG_4636](https://user-images.githubusercontent.com/25275773/144511413-5a0d34cf-df50-49b9-b31f-a7efe8efd0c6.jpg)
 
